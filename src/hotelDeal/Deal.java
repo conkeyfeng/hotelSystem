@@ -3,6 +3,7 @@ package hotelDeal;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util;
 
 public class Deal {
 	private int nightlyRate;
